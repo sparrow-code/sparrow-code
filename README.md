@@ -1,4 +1,4 @@
-# Hi There, I'm SDWORLLD - [@SPARROWCODE]("https://github.com/sparrow-code")! 👋
+# Hi There, I'm SDWORLLD - [SPARROW-CODE](https://github.com/sparrow-code/)! 👋
 
 <!--
 **sparrow-code/sparrow-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
